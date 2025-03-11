@@ -2,7 +2,7 @@
 
 This project is a simple React-based datagrid/table created using **Next.js** with TypeScript. It displays data, allows users to select rows, and enables downloading selected items if specific conditions are met.
 
-Deployed on Vercel: [Link] https://datagrid-git-main-karishma-golanis-projects.vercel.app/
+Deployed on Vercel: [Link] https://zania-assignment-one.vercel.app/
 
 ---
 
